@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<div th:fragment="boxMovieFragment">
+    <div class="part" th:if="${msg.answerDto.dailyBoxOfficeList} != null">
+        <p>
+            순위: <span th:text="${msg.answerDto.dailyBoxOfficeList.rank}"></span> <br>
+            영화이름: <span th:text="${msg.answerDto.dailyBoxOfficeList.movieNm}"></span> <br>
+            개봉일: <span th:text="${msg.answerDto.dailyBoxOfficeList.openDt}"></span> <br>
+            매출액: <span th:text="${msg.answerDto.dailyBoxOfficeList.salesAmt}"></span> <br>
+            누적관객수: <span th:text="${msg.answerDto.dailyBoxOfficeList.audiAcc}"></span> <br>
+        </p>
+    </div>
+    <div class="part" th:unless="${msg.answerDto.dailyBoxOfficeList} != null">
+        <p>
+            <span>존재하지 않는 영화입니다.</span>
+        </p>
+    </div>
+</div>
+</html>
