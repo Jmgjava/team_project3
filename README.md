@@ -90,13 +90,13 @@
 
 | 선택한 지역에 맞는 현재 날씨                                                                                             |
 |--------------------------------------------------------------------------------------------------------------|
-| ![weather_API](https://github.com/Jmgjava/JMG_projects/assets/154856565/b0ed925c-4868-42ca-bd6f-73822fcc6af2) |
+| ![weather_API](https://github.com/Jmgjava/team_project3/assets/154856565/5326d589-2612-48f3-a0e5-9d5760b48119) |
 
 - 공항을 선택하거나 마커를 클릭하면 그에 맞는 위치의 현재 날씨 및 미래 날씨를 보여줌
 
 | 공항의 현재 날씨 및 미래 날씨                                                                                                 |
 |-------------------------------------------------------------------------------------------------------------------|
-| ![airport_weather](https://github.com/Jmgjava/JMG_projects/assets/154856565/a3f29afc-4c59-483d-b0f0-6e2db8532d09) |
+| ![airport_weather](https://github.com/Jmgjava/team_project3/assets/154856565/2ab42554-4ccc-46d2-85f9-3ce22e1089e0) |
 
 
 
@@ -106,7 +106,7 @@
 
 | 날씨 검색                                                                                                             |
 |-------------------------------------------------------------------------------------------------------------------|
-| ![chatBot_weather](https://github.com/Jmgjava/JMG_projects/assets/154856565/2821bf09-8326-4744-9430-07499856883a) |
+| ![chatBot_weather](https://github.com/Jmgjava/team_project3/assets/154856565/604dd250-2796-48db-a9cb-6a250e58672c) |
 
 <br>
 
